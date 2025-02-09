@@ -4,3 +4,4 @@ A = "ShreerAm"
 B = "SurAj"
 C = "KrishnA"
 print("3rd Commit:", A,B,C)
+print("Addes 1st line from techteam on github")
